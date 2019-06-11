@@ -2,7 +2,7 @@ name := "$name$"
 version := "$version$"
 scalaVersion := "$scala_version$"
 organization := "$package$"
-organizationName := "$organization_name$"
+organizationName := "$organization_friendly_name$"
 
 fork in Test := true
 parallelExecution in Test := false
