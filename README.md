@@ -16,3 +16,4 @@ To Compile: ```sbt compile```
 To Package for Spark Submit: ```sbt assembly```
 
 See JobSpec for example unit test case.
+
